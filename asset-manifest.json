@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/hackathon-project/static/css/main.b100e6da.chunk.css",
-    "main.js": "/hackathon-project/static/js/main.fd94cc08.chunk.js",
-    "main.js.map": "/hackathon-project/static/js/main.fd94cc08.chunk.js.map",
+    "main.js": "/hackathon-project/static/js/main.b21cb423.chunk.js",
+    "main.js.map": "/hackathon-project/static/js/main.b21cb423.chunk.js.map",
     "runtime-main.js": "/hackathon-project/static/js/runtime-main.d6b61f4c.js",
     "runtime-main.js.map": "/hackathon-project/static/js/runtime-main.d6b61f4c.js.map",
     "static/js/2.ba1a6784.chunk.js": "/hackathon-project/static/js/2.ba1a6784.chunk.js",
     "static/js/2.ba1a6784.chunk.js.map": "/hackathon-project/static/js/2.ba1a6784.chunk.js.map",
     "index.html": "/hackathon-project/index.html",
-    "precache-manifest.61f5500a8e33887d42ce0c0eab0e6ab9.js": "/hackathon-project/precache-manifest.61f5500a8e33887d42ce0c0eab0e6ab9.js",
+    "precache-manifest.7fe45d02509ff4d3c0de60b607424075.js": "/hackathon-project/precache-manifest.7fe45d02509ff4d3c0de60b607424075.js",
     "service-worker.js": "/hackathon-project/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/hackathon-project/static/css/main.b100e6da.chunk.css.map",
     "static/media/logo.svg": "/hackathon-project/static/media/logo.25bf045c.svg"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d6b61f4c.js",
     "static/js/2.ba1a6784.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.fd94cc08.chunk.js"
+    "static/js/main.b21cb423.chunk.js"
   ]
 }
